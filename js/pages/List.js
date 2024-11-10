@@ -103,7 +103,7 @@ export default {
                         The Level should be focused on Nerve Control if you decide to verify it. You can submit your verification by contacting "thefluxite" on Discord
                     </p>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass and CBF is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass and CBF is allowed, up to 240fps)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
