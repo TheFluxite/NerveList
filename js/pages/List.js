@@ -41,6 +41,7 @@ export default {
                     <h1>{{ level.name }}</h1>
                     <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
                     <p>{{ level.description }}</p>
+                    <h2>Verification</h2>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
@@ -76,6 +77,8 @@ export default {
                             </td>
                         </tr>
                     </table>
+                    <h2>Showcase</h2>
+                    <iframe class="videoshowcase" id="videoframe" :src="video" frameborder="0"></iframe>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <p>(ノಠ益ಠ)ノ彡┻━┻</p>
