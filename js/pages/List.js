@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        The Level should be focused on Nerve Control if you decide to verify it. You can submit your verification by contacting "thefluxite" on Discord
+                        The Level should be focused on Nerve Control but does not need to be from you, it can be though. The Level does not need to be rated.
                     </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass and CBF is allowed, up to 240fps)
