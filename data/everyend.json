@@ -8,6 +8,25 @@
     "showcase": "https://youtu.be/nwNGVBpqhwM",
     "percentToQualify": 20,
     "rating": "5",
-    "records": [],
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=ZyRmgwSh5tQ",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Garbagee",
+            "link": "https://www.youtube.com/watch?v=K5BRT1tMycQ",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "N3bulA_ :Þ",
+            "link": "https://www.youtube.com/watch?v=-gG6SMjcaCs",
+            "percent": 100,
+            "hz": "240"
+        }
+    ],
     "description": "The hardest endurance level in Geometry Dash, featuring over 7 minutes of simple yet brutal 1.0 cube timings. Its difficulty balancing and specific skillset has lead it to being very accessible for a top level. Despite its simple 1.0 aesthetic, its technically impressive background effect involved the usage of third party software developed by Absolute. (Source: Aredl.net)"
 }
