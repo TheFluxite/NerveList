@@ -77,8 +77,6 @@ export default {
                             </td>
                         </tr>
                     </table>
-                    <h2>Showcase</h2>
-                    <iframe class="video" id="videoframe" :src="level.showcase" frameborder="0"></iframe>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <p>(ノಠ益ಠ)ノ彡┻━┻</p>
