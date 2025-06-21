@@ -51,8 +51,8 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">AREDL Placement</div>
+                            <p>{{ level.rating }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
